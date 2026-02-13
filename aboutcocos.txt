@@ -1,0 +1,3 @@
+so im begiiner in C# and i use winforms to make game so its not really good but i thik its ok
+cocos exe pipipiu
+placeholder
